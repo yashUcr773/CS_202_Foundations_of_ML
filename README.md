@@ -1,1 +1,1 @@
-# CS_202_Foundations_of_ML
+# CS_224_Foundations_of_ML
